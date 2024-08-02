@@ -33,6 +33,10 @@ int main() {
 }
 ```
 
+## OUTPUT1:
+
+![image](https://github.com/user-attachments/assets/501ef81f-783b-4eb0-9830-4a62295b1b27)
+
 CODE2:
 
 ```
@@ -62,6 +66,10 @@ int main() {
 	return 0;
 }
 ```
+
+## OUTPUT2:
+
+![image](https://github.com/user-attachments/assets/b4524d93-3ed8-4b11-89a1-34770d368730)
 
 ## Conclusion:
 
